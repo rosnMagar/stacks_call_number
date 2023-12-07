@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>data_img_8_0.jpg</filename>
+	<path>/my-project-name/data_img_8_0.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>call_number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>295</ymin>
+			<xmax>148</xmax>
+			<ymax>438</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>call_number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>151</xmin>
+			<ymin>284</ymin>
+			<xmax>222</xmax>
+			<ymax>440</ymax>
+		</bndbox>
+	</object>
+</annotation>

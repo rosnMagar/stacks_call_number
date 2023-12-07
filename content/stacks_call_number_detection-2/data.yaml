@@ -1,0 +1,12 @@
+names:
+- call_number
+nc: 1
+roboflow:
+  license: Public Domain
+  project: stacks_call_number_detection
+  url: https://universe.roboflow.com/roshan-thapa-magar-vrsdc/stacks_call_number_detection/dataset/2
+  version: 2
+  workspace: roshan-thapa-magar-vrsdc
+test: test/images
+train: train/images
+val: valid/images
